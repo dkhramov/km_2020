@@ -1,6 +1,6 @@
 ---
 title: "5. Трехмерная графика"
-output: word_document
+output: html_document
 ---
 
 
@@ -39,6 +39,7 @@ y &=& 2\sin t \cdot (1 + \cos t), \\
 z &=& 2t ,
 \end{array}
 $$
+$0 \le t \le 10\pi$.
 
 
 ## Задание 2
